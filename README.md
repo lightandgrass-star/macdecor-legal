@@ -13,7 +13,7 @@ MacDecor is a Mac application that helps you personalize your desktop with beaut
 
 ## Contact
 
-For questions about these documents, please contact: [your-email@example.com]
+For questions about these documents, please contact: lightandgrass@gmail.com
 
 ---
 
